@@ -19,3 +19,5 @@ Atualmente estou cursando Engenharia de Software na Jala University, localizada 
 [![](https://visitcount.itsvg.in/api?id=Danilo505&icon=2&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/Danilo505/Danilo505/blob/output/github-contribution-grid-snake.svg)
