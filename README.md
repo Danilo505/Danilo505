@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente estou cursando Engenharia de Software na Jala University, localizada na Califórnia, EUA, e estou animado para compartilhar minha jornada de progresso acadêmico. “Nove pessoas não podem fazer um bebê em um mês.” – Fred Brooks<br><br>
+Atualmente estou cursando Engenharia de Software na Jala University, localizada na Califórnia, EUA, e estou animado para compartilhar minha jornada de progresso acadêmico. “Não se pode resolver problemas de hoje com as mesmas ideias de ontem". Albert Einstein <br><br>
 
 
 ## 🌐 Socials:
